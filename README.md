@@ -13,8 +13,8 @@ I'm Java and Python junior developer
 - **Tools:** Git, Power Query
 
 ### My projects:
-1. **RBAC_by_PHP (https://github.com/reader-books/project_rbac)**
-2. **Sales_Forecast (https://github.com/reader-books/sales-forecast-module)**
+1. [**RBAC_by_PHP**](https://github.com/reader-books/project_rbac)
+2. [**Sales_Forecast**](https://github.com/reader-books/sales-forecast-module)
 
 ### How to reach me: 
 - **Email:** 
